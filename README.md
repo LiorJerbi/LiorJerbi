@@ -11,6 +11,8 @@ All of the projects showcased in my GitHub profile were completed as part of my 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project together!
 
 <div style="display: flex; justify-content: center;">
+
+
   <a href="https://github.com/LiorJerbi?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LiorJerbi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
@@ -18,6 +20,7 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
   <a href="https://github.com/LiorJerbi?tab=repositories">
     <img alt="My Repos" title="Projects" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
+  
 </div>
 
 ---
@@ -31,6 +34,8 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" />
+
 <br />
 
 #

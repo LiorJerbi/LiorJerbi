@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a second-year Computer Science student from Israel. I have a passion for coding and enjoy working on various projects, some of which are done independently and others with my student colleagues.
+I'm a third-year Computer Science student from Israel. I have a passion for coding and enjoy working on various projects, some of which are done independently and others with my student colleagues.
 
 ## Projects
 
